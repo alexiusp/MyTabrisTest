@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="myapp.paa" version="0.0.1">
+    <name>HelloWorld</name>
+    <description>
+        A sample Tabris.js application.
+    </description>
+    <author email="podgaev@gmail.com" href="https://nothing.yet">
+        AlexiuS
+    </author>
+</widget>
